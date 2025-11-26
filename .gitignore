@@ -1,0 +1,11 @@
+# Ignore typical artifacts
+.vscode/
+*.pyc
+__pycache__/
+
+# ignore local data (if large)
+*.pbix
+
+# keep pdf and screenshots
+!submission/PBIX_export.pdf
+docs/screenshots/*
