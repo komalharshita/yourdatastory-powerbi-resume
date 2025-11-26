@@ -1,4 +1,4 @@
-# Cities of Data — Power BI Interactive Resume
+# Power BI Interactive Resume
 **Komal Harshita** — Fabric Data Days: Your Data Story (Nov 2025)
 
 
